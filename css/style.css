@@ -23,6 +23,10 @@ p{
     font-weight: bold;
 }
 
+.color-blue{
+    color: blue;
+}
+/*
 #first.bold{
     font-weight: bold;
 }
@@ -30,3 +34,35 @@ p{
 div.background-yellow{
     font-weight: bold;
 }
+
+#first.text{
+    font-weight: 900;
+}
+*/
+
+/*
+header .color-red{
+    font-weight: 100;
+}*/
+
+/*
+#first .my-text .color-red{
+    font-weight: bold;
+}*/
+/*
+header .color-red{
+    font-weight: bold;
+}
+
+header .color-blue{
+    font-weight: 200;
+}*/
+
+a[href]{
+    color: pink;
+}
+
+a[href="https://example.org"]{
+    color: purple;
+}
+
