@@ -78,7 +78,7 @@ a[href$=org]{
 li[class="item"] a{
     color: green;
 }*/
-
+/*
 li > span{
     background-color: brown;
 }
@@ -90,5 +90,36 @@ li + span{
 li.item ~ span{
     background-color: rgb(58, 18, 110);
 }
+*/
 
+li:hover{
+    background-color: yellow;
+    
+}
 
+li:hover a{
+    color: darkgreen;
+}
+
+ul li:first-child a {
+    color: violet;
+    
+}
+
+li::before{
+    content: "listitem";
+    color: rgba(224, 26, 165, 0.637);
+}
+
+li::after {
+    content: "after";
+    color: red;
+}
+
+p::first-letter{
+    font-weight: bold;
+}
+
+p:first-line{
+    font-weight: 300;
+}
