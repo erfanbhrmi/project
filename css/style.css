@@ -159,17 +159,16 @@ li{
     padding-bottom: 10px;
 }
 
- /*.text{
+ .header{
     width: 100%;
     background-image:url( ./image.css.jpg) ;
     height:600px;
-    /*
-         mitone intory bashe       )))))  background-size:  1550px 900px;
-         background-size: cover;
+     background-size:  1550px 900px;
+     background-size: cover;
     background-repeat: no-repeat;
     background-position: 1px;
     
-}*/
+}
 
 
 
