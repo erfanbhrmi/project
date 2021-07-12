@@ -150,10 +150,10 @@ p{
     border-color: black;*/
 
     border: 4px  solid  black;
-   /* برای اندازهی فونت
+   /* برای اندازهی فونت */
     width: 400px;
     height: 200px;
-}*/
+}
 
 li{
     padding-bottom: 10px;
