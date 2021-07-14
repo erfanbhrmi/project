@@ -188,18 +188,35 @@ div.color-red{
 }
 
 .item{
-    background-image: url(./image2\ \(1\).jpg);
-    background-color: black;
+   /* background-image: url(./image2\ \(1\).jpg);
+    background-color: black;*/
     width: 1550px;
     height: 300px; 
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;
     background-size: cover;
-    background-origin: border-box;
+    background-origin: border-box;*/
     box-sizing: border-box;
     border: 5px dashed rgb(183, 223, 91);
-    background-position:0 -200px;
+    /*background-position:0 -200px;*/
+    background: linear-gradient(rgb(179, 255, 0), rgb(255, 102, 0) );
 }
 
 div>ul>li{
     text-align: center;
+}
+
+.date{
+    background: linear-gradient( 236deg,black 50%, rgb(221, 114, 132) 50%);
+} 
+
+.dated{
+    background: linear-gradient(150deg, red 50%,black 50%)
+}
+
+.closed{
+    background: linear-gradient(236deg,blue 50%,rgb(95, 171, 243)50%);
+}
+
+.game{
+    background: linear-gradient(rgba(0, 0, 0, 0.493),black);
 }
