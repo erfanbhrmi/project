@@ -151,7 +151,7 @@ p{
 
     border: 4px  solid  black;
    /* برای اندازهی فونت */
-    width: 1000px;
+    width: 1300px;
     height: 200px;
 }
 
@@ -179,8 +179,27 @@ div.color-red{
     background-color: royalblue;
 }
 
+.text{
+    text-align: center;
+}
 
+ .first-child{
+    color:rgb(255, 0, 0);
+}
 
+.item{
+    background-image: url(./image2\ \(1\).jpg);
+    background-color: black;
+    width: 1550px;
+    height: 300px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    box-sizing: border-box;
+    border: 5px dashed rgb(183, 223, 91);
+    background-position:0 -200px;
+}
 
-
-
+div>ul>li{
+    text-align: center;
+}
