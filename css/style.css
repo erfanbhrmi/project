@@ -218,5 +218,17 @@ div>ul>li{
 }
 
 .game{
-    background: linear-gradient(rgba(0, 0, 0, 0.493),black);
+    background: linear-gradient(rgba(255, 0, 0, 0.493),black);
+}
+
+.hello{
+    background: linear-gradient(rgb(164, 241, 9), rgb(8, 3, 3 , .6 ))
+}
+
+.big{
+    background: linear-gradient(rgb(21, 94, 21), rgb(17, 5, 5 , .8) );
+}
+
+.ops{
+    background: linear-gradient(circle at center, black,yellow);
 }

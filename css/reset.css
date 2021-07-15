@@ -15,3 +15,13 @@ p{
     background-position: 1px;
     
 }
+
+.piano{
+    background: linear-gradient(black,white);
+}
+
+p{
+    width: 1000px;
+    height: 200px;
+    
+}
