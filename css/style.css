@@ -229,7 +229,16 @@ div>ul>li{
     background: linear-gradient(rgb(21, 94, 21), rgb(17, 5, 5 , .8) );
 }
 
-.ops{
+.ops:hover{
     background: linear-gradient( 236deg,black 60%,yellow 40%);
-    hover:color:blue;
+    
 }
+
+.kill:hover{
+   color: rgb(102, 255, 0);
+}
+
+.hi{
+    background: linear-gradient(236deg,black 30%,blue 70%)
+}
+
