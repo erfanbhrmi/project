@@ -93,8 +93,7 @@ li.item ~ span{
 */
 
 li:hover{
-    background-color: yellow;
-    
+    background-color: rgb(187, 255, 0);
 }
 
 li:hover a{
@@ -102,8 +101,7 @@ li:hover a{
 }
 
 ul li:first-child a {
-    color: violet;
-    
+    color: violet;    
 }
 
 li::before{
@@ -137,7 +135,6 @@ p{
     */
     padding: 30px  30px 30px 30px;
 
-
     color: blue;
     padding-top: 180px;
     text-align: center;
@@ -148,7 +145,6 @@ p{
    /* border-width: 4px;
     border-style: solid;
     border-color: black;*/
-
     border: 4px  solid  black;
    /* برای اندازهی فونت */
     width: 1300px;
@@ -184,7 +180,7 @@ div.color-red{
 }
 
  .first-child{
-    color:rgb(255, 0, 0);
+    color:rgb(85, 59, 59);
 }
 
 .item{
@@ -241,4 +237,15 @@ div>ul>li{
 .hi{
     background: linear-gradient(236deg,black 30%,blue 70%)
 }
+
+.fun:hover{
+    background: linear-gradient(236deg,rgb(231, 142, 142) 30%,rgb(243, 243, 91) 70%)
+}
+
+.dad:hover{
+    background-color: rgb(48, 230, 93);
+    font-weight: bold;
+}
+
+
 
