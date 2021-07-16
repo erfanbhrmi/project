@@ -247,5 +247,45 @@ div>ul>li{
     font-weight: bold;
 }
 
+.man{
+    background-image: url(./image.gpj1.jpg);
+    background-position: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    border: 5px dashed red; 
+    filter: blur(6px);
+    /*  برای تاریک کردن تصویر   filter: brightness(50%);*/  
+    filter: drop-shadow(9px 9px 9px rgb(5, 11, 85));
+}
+ 
+.man:hover{
+    filter: blur(0px);
+}
+
+
+li{
+    text-align: center;
+}
+
+.dif:hover{
+    filter: contrast(195%);
+    background-image: url(./image.gpj1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 5px;
+    width:800px;
+    height: 700px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
