@@ -245,6 +245,7 @@ div>ul>li{
 .dad:hover{
     background-color: rgb(48, 230, 93);
     font-weight: bold;
+    font-family: fantasy;
 }
 
 .man{
@@ -257,6 +258,7 @@ div>ul>li{
     filter: blur(6px);
     /*  برای تاریک کردن تصویر   filter: brightness(50%);*/  
     filter: drop-shadow(9px 9px 9px rgb(5, 11, 85));
+    font-family: cursive;
 }
  
 .man:hover{
@@ -276,11 +278,23 @@ li{
     background-position: 5px;
     width:800px;
     height: 700px;
+    font-family: cursive;
 }
 
+.kif:hover{
+    background-color: black;
+    background-position: 5px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    background-image: url(./image2\ \(1\).jpg);
+    filter: blur(1px ) contrast(200%) drop-shadow(100px 100px 100px   rgb(96, 235, 228));
+    font-family: unset;
+}
 
-
-
+.erfan{
+    font-family: fantasy;
+}
 
 
 
