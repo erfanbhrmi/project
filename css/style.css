@@ -202,7 +202,7 @@ div>ul>li{
 }
 
 .date{
-    background: linear-gradient( 236deg,black 50%, rgb(221, 114, 132) 50%);
+    background: linear-gradient( 236deg,rgb(228, 16, 16) 50%, rgb(209, 86, 107) 50%);
 } 
 
 .dated{
@@ -294,11 +294,25 @@ li{
 
 .erfan{
     font-family: fantasy;
+    background-color: deeppink;
 }
 
+.j{
+    color: darkseagreen;
+    background-color: darkslategrey;
+    width: 900px;
+    height: 200px;
+}
 
+.kl:hover{
+    color: rgb(48, 230, 93);
+    background-color: rgb(5, 11, 85);
+}
 
-
+.lo{
+    background-color: black;
+    font-family: vazir;
+}
 
 
 
