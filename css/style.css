@@ -1,3 +1,12 @@
+@font-face{
+    font-family: vazir;
+    src: url(./fonts/vazir-bold.eot) format("truetype")
+    src: url(./fonts/vazir-bold.woff) format("truetype")
+    src: url(./fonts/vazir-bold.woff2) format("truetype")
+    src: url(./fonts/vazir-bold.ttf) format("truetype")
+}
+ 
+ 
  header{
     background:yellow
 }
@@ -307,6 +316,7 @@ li{
 .kl:hover{
     color: rgb(48, 230, 93);
     background-color: rgb(5, 11, 85);
+    font-family: vazir;
 }
 
 .lo{
@@ -314,6 +324,10 @@ li{
     font-family: vazir;
 }
 
-
+.a{
+    background-color: black;
+    color: blue;
+    font-family: vazir;
+} 
 
 
