@@ -331,7 +331,7 @@ li{
 } 
 
 .v3{
-    background-color: rgb(162, 111, 209);
+    background-color: rgb(36, 0, 70);
     background-image: url(./image2\ \(3\).jpg);
     font: bold italic "vazir";
     line-height: 1.8;
@@ -340,14 +340,23 @@ li{
     background-size: cover;
     background-position: 0 -200px;
     text-decoration:  line-through  red ;
-    text-shadow: 1px 3px 0 rgb(51, 53, 49);
+    text-shadow: 1px 2px 0 rgb(231, 230, 230);
     text-align: justify;
-  /*  white-space:pre-line ;*/
-    /* برای ایحاد فاصلع */word-spacing: 23px;
-      /*     برای ایجاد فاصله بین حروف   */ letter-spacing: 2px;
-   -ms-word-break: break-all;
+   /*  white-space:pre-line ;*/
+     /* برای ایحاد فاصلع */word-spacing: 23px;
+       /*     برای ایجاد فاصله بین حروف   */ letter-spacing: 2px;
+         /*   برای این که تمامی متن در چند خط مرتب قرار بگیرد*/   word-break: break-all;
 }
 
-
+.s{
+    background-color: rgb(30, 240, 135);
+    word-break:break-all ;
+    letter-spacing: 9px;
+    margin-bottom: 90px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    width: 1000px;
+    height: 70px;
+}
 
 
