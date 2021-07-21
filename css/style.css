@@ -340,6 +340,12 @@ li{
     background-size: cover;
     background-position: 0 -200px;
     text-decoration:  line-through  red ;
+    text-shadow: 1px 3px 0 rgb(51, 53, 49);
+    text-align: justify;
+  /*  white-space:pre-line ;*/
+    /* برای ایحاد فاصلع */word-spacing: 23px;
+      /*     برای ایجاد فاصله بین حروف   */ letter-spacing: 2px;
+   -ms-word-break: break-all;
 }
 
 
