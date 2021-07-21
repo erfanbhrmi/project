@@ -330,4 +330,18 @@ li{
     font-family: vazir;
 } 
 
+.v3{
+    background-color: rgb(162, 111, 209);
+    background-image: url(./image2\ \(3\).jpg);
+    font: bold italic "vazir";
+    line-height: 1.8;
+    background-repeat: no-repeat;
+    width: 100x;
+    background-size: cover;
+    background-position: 0 -200px;
+    text-decoration:  line-through  red ;
+}
+
+
+
 
