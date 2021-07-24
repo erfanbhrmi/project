@@ -426,8 +426,7 @@ li{
 }
 
 .q{
-    background-color: blue;
-    background-image: url(./icons8-big-ben-80.png ) ;
+    background-image: url(./img/icons8-big-ben-80.png )  ;
     background-repeat: no-repeat;
     background-origin: border-box;
     width: 80px;
@@ -435,18 +434,54 @@ li{
 }
 
 .pk{
-    background-image: url(./icons8-xlarge-icons-100.png);
+    background-image: url(./img/icons8-xlarge-icons-100.png) ;
     background-repeat: no-repeat;
     width: 40px;
-   background-position: -5px -5px;
-   padding-bottom: -30px;
-   padding-top: 10px;
-   margin-top: 10px;
-   margin-bottom: 60px;
-   background-size: 100px 100px; 
-  
+    background-position: -5px -5px;
+    padding-bottom: -30px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    background-size: 100px 100px; 
+    background-color: darkmagenta;
 }
 
-.d text.f{
-   text-align: end;
+.j{
+    width:80px;
+    height: 40px;
+}
+
+.z{
+    width: 80px;
+    height:40px;
+}
+
+.v{
+    width: 80px;
+    height: 40px;
+}
+
+.vi{
+    width: 80px;
+    height: 40px;
+}
+
+.vp{
+    width: 80px;
+    height: 40px;
+}
+
+.vip{
+    width: 80px;
+    height: 40px;
+}
+
+.li{
+    background-color: rgb(230, 153, 53);
+    font-size: 2em;
+}
+
+.dir{
+    width: 80px;
+    height: 40px;
 }
