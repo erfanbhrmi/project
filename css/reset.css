@@ -1,31 +1,18 @@
-p{
-    color: chartreuse;
-    background-color: chocolate;
-}
-
-.header{
-    background-color: yellow;
-    width: 100%;
-    background-image:url( ./image.jpg) ;
-    height:600px;
-    /*
-         mitone intory bashe       )))))  background-size:  1550px 900px;*/
-         background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 1px;
-    
-}
-
-.piano{
-    background: linear-gradient(black,white);
-}
-
-p{
-    width: 1000px;
-    height: 200px;
-    
-}
-
 html{
+    font-size: 100%;
+    font-family: vazir;
+}
+
+div{
+    color: rgb(0, 243, 20);
+    background-color: rgb(6, 3, 22);
+    margin-bottom: 13px;
     text-align: center;
+    padding: 15px;
+    border: rgb(101, 101, 226)  dashed 3px;
+    background-image: url(./img/grf-bg.jpg) ;
+    background-repeat: no-repeat;
+    background-position: 0 -80px;
+    background-size: cover;
+   
 }
