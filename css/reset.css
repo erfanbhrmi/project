@@ -6,11 +6,11 @@ html{
 div{
     color: rgb(0, 243, 20);
     background-color: rgb(6, 3, 22);
-    margin-bottom: 10px;
+    margin-bottom: 35px;
     text-align: center;
     padding: 35px;
     border: rgb(101, 101, 226)  dashed 3px;
-    background-image: url(./img/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
+  background-image: url(./img/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
     background-repeat: no-repeat;
     background-position: 0 -80px;
     background-size: cover;
@@ -105,8 +105,7 @@ span{
     background-size: cover;
     width: 329px;
     height: 260px;
-    margin-top: -339px;
- 
+    margin-top: -369px;
 }
 
 .x{
@@ -129,6 +128,7 @@ span{
     width: 380px;
     height: 270px;
     margin-top: -100px;
+    /*flot: right ;  flot:left;   برای چپ و راست قرار دادن متن در چپ و راست مثل اول های  وب سایت*/
 }
 
 .yop{
@@ -139,4 +139,6 @@ span{
     background-position:0 0;
     margin-top: -240px;
     border: pink ;
+    filter: drop-shadow( 10px 10px 10px   rgb(17, 1, 1));
 }
+

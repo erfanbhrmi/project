@@ -478,7 +478,8 @@ li{
 
 .li{
     background-color: rgb(230, 153, 53);
-    font-size: 2em;
+    font-size: 2em; 
+    margin-left: 60px;
 }
 
 .dir{
