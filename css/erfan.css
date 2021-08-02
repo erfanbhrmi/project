@@ -1,7 +1,7 @@
  .section{
-    background-color:rgb(9, 13, 255) ;
+    background-color:rgb(0, 255, 179) ;
     color: white; 
-    padding: 3rem;
+    padding: 1rem;
     text-align: center;
 }
 
@@ -259,4 +259,67 @@ margin-left: -400px;
 
 .hi{
    margin-top: 100px;
+}
+
+.erfan{
+    color: rgb(35, 82, 83);
+    background-image: linear-gradient(100deg,rgb(255, 0, 0),rgb(94, 255, 0));
+    width: 1560px;
+height: 300px;
+margin-top: -300px; 
+}
+
+.row{
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.row2{
+  margin-bottom: 30px;
+  margin-top: 70px;
+}
+
+.zip{
+    width: 200px;
+    height: 90px;
+    background-color: rgb(0, 207, 243);
+    margin-right: 100px;
+    margin-bottom: -90px;
+    margin-left: 50px;
+}
+
+.zir{
+    width: 200px;
+    height: 90px;
+    background-color: rgb(0, 186, 243);
+   margin-left: 420px;
+    margin-bottom: 30px;
+  
+}
+
+.zim{
+    width: 200px;
+    height: 90px;
+    background-color: rgb(0, 215, 243); 
+   margin-left: 235px;
+
+}
+
+.an{
+    width: -200px;
+    background-color: rgb(22, 97, 32);
+    margin-left: -10px;
+   margin-left: 1100px;
+   width: -100px;
+}
+
+.sill{
+   margin-left: 10px;
+   background-color: rgb(255, 238, 0);
+   width: 230px;
+   height: 90px;
+}
+
+.clearfix{
+    background-color: rgb(255, 255, 255);
 }
