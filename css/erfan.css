@@ -1,5 +1,5 @@
  .section{
-    background-color:rgb(0, 255, 179) ;
+    background-color:rgb(255, 0, 157) ;
     color: white; 
     padding: 1rem;
     text-align: center;
@@ -322,4 +322,180 @@ margin-top: -300px;
 
 .clearfix{
     background-color: rgb(255, 255, 255);
+}
+
+.hi{
+    width: 1560px;
+}
+
+ .box1 .btn{
+     width: 40px;
+     height: 35px;
+     background-color: rgb(255, 0, 0);
+     margin-top: 10px;
+     margin-bottom:-45px;
+     margin-left: 20px;
+ }  
+
+ .box1 .btm{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 0, 0);
+ margin-top: 10px;
+ margin-left: 99px;
+margin-bottom: -45px;
+
+ }
+
+ .box1 .btv{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 0, 0);
+ margin-top: 10px;
+ margin-left: 99px;
+margin-bottom: -45px;
+margin-left: 185px;
+ }
+
+ .box2 .btm{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+margin-left: 94px;
+margin-top: -33px;
+
+ }
+
+ .box2 .btn{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+ margin-left: 200px;
+    margin-left: 13px;
+    margin-top: -1px;
+ }
+
+ .box2 .btv{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: -33px;
+    margin-left: 185px;
+ }
+
+
+ .box3 .btm{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(247, 0, 255);
+    margin-left: 14px;
+    margin-top: -33px;
+    margin-left: 185px;
+ }
+
+
+ .box3 .btn{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(103, 86, 131);
+  margin-left: 10px;
+
+ }
+
+
+ .box3 .btv{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(103, 86, 131);
+ margin-top: -35px;
+ margin-left: 99px;
+ }
+
+ .box4 .btv{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(179, 255, 0);
+ margin-left: 185px;
+ margin-top: -35px;
+ }
+
+ .box4 .btm{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(98, 0, 255);
+ margin-left: 99px;
+ margin-top: -33px;
+ }
+
+ .box4 .btn{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 131, 249);
+  margin-left: 10px;
+ }
+
+ .box5 .btm{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(199, 177, 250);
+    margin-left: 98px;
+    margin-top: -30px;
+}
+
+.box5 .btn{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(100, 52, 98);
+    margin-left: 10px;
+
+}
+
+.box5 .btv{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(191, 255, 131);
+    margin-left: 185px;
+    margin-top: -38px;
+}
+
+.box6 .btv{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(131, 164, 255);
+    margin-left: 185px;
+    margin-top: -35px;
+}
+
+.box6 .btn{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(48, 66, 32);
+    margin-left: 10px;
+}
+
+.box6 .btm{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(5, 7, 3);
+    margin-left: 98px;
+    margin-top: -33px;
+}
+
+.bir .btm{
+    width: 130px;
+    height: 59px;
+    background-color: rgb(128, 255, 0);
+margin-left: 75px;
+margin-top: -17px;
+margin-left: 35px;
+}
+
+.bil .btm{
+    width: 110px;
+    height: 49px;
+    background-color: rgb(31, 58, 66);
+    margin-top: -105px;
+margin-right: 15px;
+margin-left: 44px;
 }
