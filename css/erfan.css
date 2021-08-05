@@ -1,9 +1,22 @@
+ 
+ @font-face{
+    font-family: vazir;
+    src: url(./fonts/vazir-bold.eot) format("truetype")
+    src: url(./fonts/vazir-bold.woff) format("truetype")
+    src: url(./fonts/vazir-bold.woff2) format("truetype")
+    src: url(./fonts/vazir-bold.ttf) format("truetype")
+}
+ 
+
+
  .section{
     background-color:rgb(255, 0, 157) ;
     color: white; 
     padding: 1rem;
     text-align: center;
 }
+
+
 
 .content{
 float: left;
@@ -498,4 +511,84 @@ margin-left: 35px;
     margin-top: -105px;
 margin-right: 15px;
 margin-left: 44px;
+}
+
+.contianer{
+    width:1200px;
+    margin-left: 169px;
+    margin-top: 32px;
+    font-family:"vazir";
+    font-size: 16.5px;
+    font-weight: bold;
+    color: lawngreen;
+    margin-bottom: 15px;
+
+}
+
+.forn label,
+.form input{
+    display: block;
+}
+
+.q{
+    font-family:cursive;
+    border: 1px solid red;
+}
+
+.cv2{
+    margin-bottom: 15px;
+}
+
+.sd{
+    margin-top:20px;
+}
+
+.q{
+    margin-bottom: 10px;
+}
+
+.cv2{
+    display: block;
+    margin-top: 10px;
+    width: 140px;
+    height: 40px;
+background-color: yellow;
+}
+
+.bm{
+margin-top: 10px;
+}
+
+.s{
+    margin-left: -280px;
+}
+ 
+
+input.q::placeholder{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+
+
+.cv2 text{
+    margin-right: -62px;
+}
+
+.dd{
+    width: 35px;
+    height: 30px;
+    margin-left:-50px;
+}
+
+.bm{
+    width: 45px;
+    height: 25px;
+}
+
+p.vv:hover{
+    background-color:dimgrey;
+}
+
+.bm:checked{
+    background-color: forestgreen;
 }
