@@ -13,10 +13,13 @@
     background-color:rgb(255, 0, 157) ;
     color: white; 
     padding: 1rem;
+    width: 100rem;
     text-align: center;
 }
 
-
+html{
+    font-size: 16px;
+}
 
 .content{
 float: left;
@@ -43,9 +46,9 @@ clear: both;
 }
 
 .sill{
-    margin-top: 80px;
-    margin-right: 200px;
-    margin-bottom: 100px;
+    margin-top: 1rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
 }
 
 .clearfix{
@@ -586,9 +589,27 @@ input.q::placeholder{
 }
 
 p.vv:hover{
-    background-color:dimgrey;
+    background-color:rgb(190, 246, 248);
 }
 
-.bm:checked{
-    background-color: forestgreen;
+input:focus{
+    background-color: burlywood;
+    border: 3.5px solid  rgb(0, 0, 0);
+  
 }
+
+ .form input:invalid{
+    background-color: rgb(250, 137, 137);
+}
+
+.vv{
+border: none; 
+
+}
+
+
+
+
+
+
+
