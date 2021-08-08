@@ -1,0 +1,69 @@
+.a{
+
+  
+    width: 100%;
+    height: 300px;
+}
+
+.b{
+  
+    width: 100%;
+    height: 400px;
+}
+
+.c{
+
+    width: 100%;
+    height: 400px;
+}
+
+.d{
+    
+    width: 100%;
+    height: 400px;
+}
+
+.e{
+    
+    width: 100%;
+    height: 400px;
+}
+
+.f{
+ 
+    width: 100%;
+    height: 400px;
+}
+
+@media(min-width : 768px){
+.a{
+ width: 10%;
+ height: 100px;
+}
+
+.b{
+ width: 10%;
+ height: 100px;
+}
+
+.c{
+ width: 10%;
+ height: 100px;
+}
+
+.d{
+ width: 10%;
+ height: 100px;
+}
+
+.e{
+ width:  10%;
+ height: 100px;
+}
+
+.f{
+ width: 10%;
+ height: 100px;
+}
+
+}

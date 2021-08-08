@@ -1,6 +1,7 @@
 html{
     font-size: 100%;
     font-family: vazir;
+    width: 100%;
 }
 
 div{
@@ -14,6 +15,9 @@ div{
     background-repeat: no-repeat;
     background-position: 0 -80px;
     background-size: cover;
+    width: 100%;
+    margin-left: -100px;
+    margin-left: -200px;
 }
   
 span{
@@ -24,20 +28,11 @@ span{
     padding-right: 15px;
 }
 
-.l{
-    background-color: chartreuse;
-    color: black;
-    background-image: url(./img/download.png);
-    background-position:-52px 0;
-    width: 329px;
-    height: 267px;
-     background-size: cover;
-    margin-top: -380px;
-}
+
 
 .d{
     background-image: url(./img/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
-    width: 365px;
+    width: 100%;
     height: 330px;
     background-size: cover;
     background-position: -300px 0;
@@ -75,45 +70,59 @@ span{
 
 .www{
     background-image: url(./img/image2\ \(3\).jpg);
-    width: 220px;
+    /*width: 220px*/
+    width:100%;
     height: 200px;
     background-size: cover;
     background-position: -43px 0;
+  
 }
 
 .wwl{
     background-image: url(./img/download.jpg);
-    width: 329px;
+  /*  width: 329px;*/
+  width: 100%;
     height: 279px;
     background-size: cover;
     background-position:-49px 0; 
    margin-top: 40px;
    margin-bottom: 30px;
+   margin-left:-10px;
+
 }
 
 .bmw{
     background-image:url(./img/grf-bg.jpg);
     background-size: cover;
     background-position:-300px 0;
-    width: 329px;
+    /*width: 329px;*/
+    width: 100%;
     height: 260px;
+
 }
 
 .mr{
     background-image: url(./img/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
     background-position: -400px 0;
     background-size: cover;
-    width: 329px;
+    /*width: 329px;*/
+    width: 100%;
     height: 260px;
     margin-top: -369px;
+    margin-left: 950px;
+    margin-top: 150px;
+    margin-left: -488px;
+    background-size: cover;
 }
 
 .x{
-    width: 1550px;
+    /*width: 1550px;*/
+    width: 128%;
     height: 400px;
     background: linear-gradient( 236deg,rgb(200, 241, 13) , white,rgb(247, 110, 133));
     background-repeat: no-repeat;
     background-size: cover;
+    margin-right: 10px;
 }
 
 .fl{
@@ -142,3 +151,33 @@ span{
     filter: drop-shadow( 10px 10px 10px   rgb(17, 1, 1));
 }
 
+header{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+.cvcv{
+   width: 120%;
+}
+
+.l{
+    margin-left: 200px;
+}
+
+.m{
+    height: 200px;
+    width: 100%;
+}
+
+.wwl{
+    width: 100%;
+}
+
+html{
+    font-size: 100%;
+    font-family: vazir;
+    width: 100%;
+}

@@ -7,13 +7,15 @@
     src: url(./fonts/vazir-bold.ttf) format("truetype")
 }
  
-
+html{
+    max-width: 100rem;
+}
 
  .section{
-    background-color:rgb(255, 0, 157) ;
+    background-color:rgb(150, 25, 102) ;
     color: white; 
     padding: 1rem;
-    width: 100rem;
+   width: 91.5rem;
     text-align: center;
 }
 
@@ -136,8 +138,9 @@ header,.c1{
 
 .sill{
     margin-left: 100px;
-width: 50px;
-height: 60px;
+width: 100px;
+height: 50px;
+
 }
 
 
@@ -283,6 +286,7 @@ margin-left: -400px;
     max-width: 1775px;
 height: 300px;
 margin-top: -300px; 
+width: 93rem;
 }
 
 .row{
@@ -323,10 +327,11 @@ margin-top: -300px;
 
 .an{
     width: -200px;
-    background-color: rgb(22, 97, 32);
+    background-color: rgb(255, 255, 255);
     margin-left: -10px;
    margin-left: 1100px;
    width: -100px;
+  
 }
 
 .sill{
@@ -539,15 +544,15 @@ margin-left: 44px;
 }
 
 .cv2{
-    margin-bottom: 15px;
+    margin-bottom: 1.1rem;
 }
 
 .sd{
-    margin-top:20px;
+    margin-top:1.2rem;
 }
 
 .q{
-    margin-bottom: 10px;
+    margin-bottom: 1.2rem;
 }
 
 .cv2{
@@ -607,9 +612,79 @@ border: none;
 
 }
 
+.hi{
+  width: 70rem; 
+}
+
+.sill{
+    width: 78rem;
+}
+ 
+input.q{
+   margin-right: 35rem;
+}
+
+.k{
+    margin-right: 35rem;
+}
+
+.vv{
+margin-right: 35rem;
+}
+
+.bm{
+margin-right: 5.5rem;
+margin-bottom: -1.3rem;
+}
+
+.cv2{
+margin-right: 35rem;
+}
+
+.dd{
+margin-right: 1rem;
+}
+
+.hi{
+width: 79rem;
+}
+
+.sill{
+    width: 20px;
+    margin-right: -10px;
+}
+
+.an{
+    margin: 1.5rem;
+}
+
+.sill{
+    width: 20rem;
+    margin-right: 1rem;
+  
+}
+
+header.bbb{
+    width: 100%;
+}
+
+.sill{
+    margin-right: 5.7rem;
+    height: 9rem;
+}
+
+.erfan{
+    width: 1630px;
+}
+
+.sidebar{
+    width: 20%;
+}
 
 
 
-
-
-
+@media(max-width : 768px){
+.section{
+    width: 100%;
+}
+}
