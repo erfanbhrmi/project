@@ -282,11 +282,11 @@ margin-left: -400px;
 
 .erfan{
     color: rgb(35, 82, 83);
-    background-image: linear-gradient(100deg,rgb(255, 0, 0),rgb(110, 33, 233));
+    background-image: linear-gradient(100deg,rgb(177, 122, 122),rgb(110, 33, 233));
     max-width: 1775px;
 height: 300px;
 margin-top: -300px; 
-width: 93rem;
+width: 90rem;
 }
 
 .row{
@@ -607,88 +607,18 @@ input:focus{
     background-color: rgb(250, 137, 137);
 }
 
-.vv{
-border: none; 
 
+.wwl{
+    width: 300px;
+    height: 150px;
 }
 
-.hi{
-  width: 70rem; 
+.l{
+    width: 100px;
+    height: 30px';
 }
 
-.sill{
-    width: 78rem;
-}
- 
-input.q{
-   margin-right: 35rem;
-}
-
-.k{
-    margin-right: 35rem;
-}
-
-.vv{
-margin-right: 35rem;
-}
-
-.bm{
-margin-right: 5.5rem;
-margin-bottom: -1.3rem;
-}
-
-.cv2{
-margin-right: 35rem;
-}
-
-.dd{
-margin-right: 1rem;
-}
-
-.hi{
-width: 79rem;
-}
-
-.sill{
-    width: 20px;
-    margin-right: -10px;
-}
-
-.an{
-    margin: 1.5rem;
-}
-
-.sill{
-    width: 20rem;
-    margin-right: 1rem;
-  
-}
-
-header.bbb{
-    width: 100%;
-}
-
-.sill{
-    margin-right: 5.7rem;
-    height: 9rem;
-}
-
-.erfan{
-    width: 1630px;
-}
-
-.sidebar{
-    width: 20%;
-}
-
-
-
-@media(max-width : 768px){
-.section{
-    width: 100%;
-}
-}
-
-.ddd{
-    filter: invert(100%);
+.a{
+    width: 1560px;
+    height: 160px;
 }

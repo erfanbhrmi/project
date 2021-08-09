@@ -117,12 +117,13 @@ span{
 
 .x{
     /*width: 1550px;*/
-    width: 128%;
+    width: 1000px;
     height: 400px;
     background: linear-gradient( 236deg,rgb(200, 241, 13) , white,rgb(247, 110, 133));
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 10px;
+    margin-left: 50px;
 }
 
 .fl{
@@ -146,9 +147,10 @@ span{
     height: 300px; 
     background-size: cover;
     background-position:0 0;
-    margin-top: -240px;
+    margin-top: -280px;
     border: pink ;
     filter: drop-shadow( 10px 10px 10px   rgb(17, 1, 1));
+    margin-left: 10px;
 }
 
 header{
@@ -160,7 +162,7 @@ body{
 }
 
 .cvcv{
-   width: 120%;
+   width: 1430px;
 }
 
 .l{
@@ -180,4 +182,150 @@ html{
     font-size: 100%;
     font-family: vazir;
     width: 100%;
+}
+
+.fl{
+    margin-right: -39rem;
+}
+
+.cvcv{
+    width: 1180px;
+    padding: 9rem;
+}
+
+.x{
+    width: 1270px;
+}
+
+.si{
+    font-family: inherit;
+    font-size: 50px;
+    margin-right: 0px;
+    margin-left: 30px;
+}
+
+.xz{
+    font-size: 50px;
+    margin-right: 0px;
+    margin-left: 30px;
+}
+
+.ddl{
+    font-size: 50px;
+    margin-right: 0px;
+    margin-left: 30px;
+}
+
+.qq{
+    font-size: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.fl{
+font-size: 50px;
+}
+
+.a{
+    /* width:500px
+    margin-left: 400px;
+    background-position: -2px 0;*/
+    width: 1100px;
+    height: 415px;
+    background-image: url(./img/hhhh.png);
+    margin-left: 50px;
+}
+
+.oppp{
+    /* width:500px
+     margin-left: 400px;
+    background-position: -2x 0;*/
+    width: 1100px;
+    height: 415px;
+    background-image: url(./img/lop.png); 
+    background-size: cover;
+    background-position: 10px 0;
+    margin-left: 50px;
+}
+
+.as{
+    /* width:500px
+   margin-left: 400px;
+    background-position: -2px 0;  */
+    width: 1100px;
+    height: 415px;
+    background-image: url(./img/fast\ food.jpg); 
+    background-size: cover;
+    background-position: 10px 0;
+    margin-left: 50px;
+    
+}
+
+.bv{
+    /* width:500px
+    margin-left: 400px;
+    background-position: -2px 0; */
+    width: 1100px;
+    height: 415px;
+    background-image: url(./img/gae.jpg); 
+    background-size: cover;
+    background-position: 10px 0; 
+    margin-left: 50px;
+}
+
+.cvcv{
+    margin-left: 50px;
+}
+@media (width:768px ) {
+.a{
+    width:500px;
+    margin-left: 400px;
+    background-position: -2px 0;
+}
+
+.oppp{
+    width:500px;
+    margin-left: 400px;
+    background-position: -2px 0;
+}
+
+.as{
+    width:500px;
+    margin-left: 400px;
+    background-position: -2px 0;
+}
+
+.bv{
+    width:500px;
+    margin-left: 400px;
+    background-position: -2px 0;
+}
+
+
+.cvcv{
+    margin-left: 50px;
+}
+
+.yop{
+    margin-left: 60px;
+}
+}
+
+.yop{
+   /* margin-left: 60px;*/
+}
+
+.cvcv{
+   /* margin-left: 50px;*/
+}
+
+.x{
+    margin-left: 0px;
+}
+
+.cvcv{
+    margin-left: -1px;
+}
+.fl{
+    margin-left: 600px;
 }
