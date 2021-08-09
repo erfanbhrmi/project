@@ -688,3 +688,7 @@ header.bbb{
     width: 100%;
 }
 }
+
+.ddd{
+    filter: invert(100%);
+}
