@@ -200,26 +200,23 @@ html{
 .si{
     font-family: inherit;
     font-size: 50px;
-    margin-right: 0px;
+    margin-right: 90px;
     margin-left: 30px;
+   /* margin-top: 100px;*/
 }
 
 .xz{
     font-size: 50px;
-    margin-right: 0px;
-    margin-left: 30px;
+
 }
 
 .ddl{
     font-size: 50px;
-    margin-right: 0px;
-    margin-left: 30px;
 }
 
-.qq{
+.qmn{
+  
     font-size: 50px;
-    margin-right: 0px;
-    margin-left: 0px;
 }
 
 .fl{
@@ -233,7 +230,7 @@ font-size: 50px;
     width: 1100px;
     height: 415px;
     background-image: url(./img/hhhh.png);
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .oppp{
@@ -245,9 +242,8 @@ font-size: 50px;
     background-image: url(./img/lop.png); 
     background-size: cover;
     background-position: 10px 0;
-    margin-left: 50px;
+    margin-left: 40px;
 }
-
 .as{
     /* width:500px
    margin-left: 400px;
@@ -257,7 +253,7 @@ font-size: 50px;
     background-image: url(./img/fast\ food.jpg); 
     background-size: cover;
     background-position: 10px 0;
-    margin-left: 50px;
+    margin-left: 40px;
     
 }
 
@@ -270,13 +266,13 @@ font-size: 50px;
     background-image: url(./img/gae.jpg); 
     background-size: cover;
     background-position: 10px 0; 
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .cvcv{
     margin-left: 50px;
 }
-@media (width:768px ) {
+@media (min-width:768px ) {
 .a{
     width:500px;
     margin-left: 400px;
@@ -309,6 +305,47 @@ font-size: 50px;
 .yop{
     margin-left: 60px;
 }
+
+.si{
+  margin-right: -100px;
+}
+
+.xz{
+  margin-right:-100px;
+}
+
+.ddl{
+  margin-right: -200px;
+}
+
+.qq{
+   margin-right: -100px;
+}
+
+div.a{
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+div.oppp{
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
+
+div.as{
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
+
+div.bv{
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
+
+span.ddl{
+    margin-left: 15px;
+}
 }
 
 .yop{
@@ -321,11 +358,100 @@ font-size: 50px;
 
 .x{
     margin-left: 0px;
+    width: 1850px;
 }
 
 .cvcv{
     margin-left: -1px;
+    width: 1560px;
 }
 .fl{
     margin-left: 600px;
 }
+
+.si{
+    /*margin-right: -100px;*/
+    margin-left: 900px;
+    font-size: 40px;
+}
+
+.xz{
+    /*margin-right: -100px;*/
+    margin-left: 480px;
+    font-size: 40px;
+}
+
+.ddl{
+    /*margin-right: -100px;*/
+    margin-left: -200px;
+    font-size: 40px;
+}
+
+.qq{
+    /*margin-right: -100px;*/
+    margin-right: 300px;
+    font-size: 40px;
+    margin-left: -795px;
+}
+
+.a{
+    width: 950px;
+    margin-left: 18px;
+}
+
+.oppp{
+    width: 950px;
+    margin-left: 18px;
+}
+
+.as{
+    width: 950px;
+    margin-left: 18px;
+}
+
+.bv{
+    width: 950px;
+    margin-left: 18px;
+}
+
+.a{
+    margin-left: 150px;
+}
+
+.oppp{
+    margin-left: 150px;
+}
+
+.as{
+    margin-left: 150px;
+}
+
+.bv{
+    margin-left: 150px;
+}
+
+.fl{
+    text-align: right;
+}
+
+.a{
+   /* margin-left: 400px;*/
+}
+
+.jk{
+    margin-left: 1560px;
+    font-size: 50px;
+}
+
+.km{
+    margin-left: 900px;
+    font-size: 50px;
+    margin-top: -100px;
+}
+
+.fef{
+    margin-left: 200px;
+    font-size: 50px;
+    margin-bottom: -210px;
+}
+
