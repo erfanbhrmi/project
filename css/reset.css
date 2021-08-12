@@ -346,6 +346,22 @@ div.bv{
 span.ddl{
     margin-left: 15px;
 }
+
+.fef{
+  margin-left: 1400px;
+}
+
+.zz{
+    margin-left: 400px;
+}
+
+.dd{
+  margin-left: 630px;
+}
+
+span p.sad{
+   margin-left: 950px;
+}
 }
 
 .yop{
@@ -438,20 +454,34 @@ span.ddl{
    /* margin-left: 400px;*/
 }
 
-.jk{
-    margin-left: 1560px;
-    font-size: 50px;
-}
-
-.km{
-    margin-left: 900px;
-    font-size: 50px;
-    margin-top: -100px;
-}
-
 .fef{
-    margin-left: 200px;
-    font-size: 50px;
-    margin-bottom: -210px;
+    margin-top: -10px;
+    margin-right: 200px;
+    font-size: 30px;
+   /* margin-left: 600px;*/
 }
 
+.zz{
+    margin-left: 500px;
+    margin-top: -80px;
+    font-size: 30px;
+    /*margin-left: 1400px;*/
+}
+
+.dd{
+    margin-right: 1550px;
+    margin-top: -89px;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    /*margin-left: 10px;*/
+}
+
+span p.sad{
+    margin-left: 300px;
+    width: 35px;
+    height:20px;
+    margin-top: -70px;
+    font-size: 30px;
+ /*   margin-left: 450px;*/
+}
